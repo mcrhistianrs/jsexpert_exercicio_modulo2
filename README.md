@@ -1,2 +1,3 @@
-##Curso JSExpert
-*Exercício do modulo 2 , aprender jest,mocks,stubs e spies.
+# Ideia
+
+Exercício do curso JSExpert do Erick Wendell, o exercício tem como objetivo aprender jest, mocks, stubs e spies.
