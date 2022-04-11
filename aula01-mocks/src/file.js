@@ -59,7 +59,6 @@ class File{
             for(const index in columns){
                 user[header[index]] = columns[index]
             }
-            console.log('->',user)
             return new User(user)
         })
         return users
